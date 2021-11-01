@@ -97,6 +97,12 @@ I’m interested in modern **Web Development**
          width="40"
          height="40"/>
   </a>
+  <a href="https://www.microsoft.com/es-es/windows" target="_blank">
+    <img src="https://www.svgrepo.com/show/52775/windows.svg"
+         alt="linux"
+         width="40"
+         height="40"/>
+  </a>
 </p>
 
 #### Source Control
@@ -139,7 +145,7 @@ I’m interested in modern **Web Development**
          align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
          alt="@Weishler1" 
-         height="30"
+         height="40"
          width="40"/>
   </a>
   <a href="https://t.me/Weishler" target="blank">
@@ -147,7 +153,15 @@ I’m interested in modern **Web Development**
          align="center" 
          src="https://www.svgrepo.com/show/303292/telegram-logo.svg" 
          alt="@Weishler" 
-         height="30"
+         height="40"
+         width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/weishler-berman-0b56b31b2/" target="blank">
+    <img 
+         align="center" 
+         src="https://www.svgrepo.com/show/157006/linkedin.svg" 
+         alt="Weishler Berman" 
+         height="40"
          width="40"/>
   </a>
 </p>
