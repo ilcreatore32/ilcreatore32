@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 *   🌍  I'm based in Valencia, Venezuela.
-*   🖥️  See my portfolio at [this website /Portfolio](http://ilcreatore32.github.io/portfolio/)
+*   🖥️  See my portfolio at this website: [My Portfolio](http://ilcreatore32.github.io/portfolio/)
 *   ✉️  You can contact me at [weishlerberman@gmail.com](mailto:weishlerberman@gmail.com)
 *   🧠  I'm learning ReactJS and .Net
 
